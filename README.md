@@ -1,1 +1,7 @@
-[Struggle for quality](./struggle_for_quality.md)
+- [Macrostructura 00 - Prologue](./macrostructura00/main.md)
+- [Macrostructura 01 - Single unit of work](./macrostructura01/main.md)
+- [Macrostructura 02 - First order patterns](./macrostructura02/main.md)
+- [Macrostructura 03 - Creation](./macrostructura03/main.md)
+- [Macrostructura 04 - Composite](./macrostructura04/main.md)
+- Macrostructura ...
+- [Struggle for quality](./struggle_for_quality/main.md)
