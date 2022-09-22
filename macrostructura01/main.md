@@ -59,17 +59,17 @@ Simply, by checking if apple is inside the basket. There are problems with this 
 All those scenarios can be valid unit tests that test exactly **one unit of work**.
 
 ```lua
-# arrange
+-- arrange
 
 apple = Apple.create();
 basket = Basket.createEmpty();
 appleMover = AppleMover.create();
 
-# act
+-- act
 
 appleMover.moveInto(apple, basket);
 
-# assert
+-- assert
 
 Assert.that(apple).is.inside(basket);
 ```
