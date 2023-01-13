@@ -28,4 +28,4 @@ Whatever will be present in the next chapters in not without it's limitations. O
 
 > You may be able to apply this knowledge somewhere else, but i give no guarantee.
 
-Word of warning, what is wrote until this very line seems like an overpromise, but i'll try my best to fulfill it. Which in the end may not be possible, or at least end up being remarkably difficult. Still worth it.
+Word of warning, what is written until this very line seems like an overpromise, but i'll try my best to fulfill it. Which in the end may not be possible, or at least end up being remarkably difficult. Still worth the effort.
