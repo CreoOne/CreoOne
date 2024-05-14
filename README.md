@@ -1,2 +1,1 @@
 - [Struggle for quality](./struggle_for_quality/main.md)
-- [Macrostructura](./macrostructura00/main.md)
