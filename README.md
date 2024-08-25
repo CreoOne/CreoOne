@@ -1,1 +1,2 @@
 - [Struggle for quality](./struggle_for_quality/main.md)
+- [Lingering obvious](./lingering_obvious/main.md)
