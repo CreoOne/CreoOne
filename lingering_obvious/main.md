@@ -39,5 +39,5 @@ Burning fire of deliberate mindful repeated failure is the exact mechanism that 
 Isn't it obvious that buddhist monk would meditate to reach "enlightenment" struggling to keep his mind free of earthly desires every day.
 Isn't it obvious that scientist would explore all known and un-known dead-ends just to reach the "light-bulb moment".
 
-> It is completely obvious now
+> It is completely obvious now  
 > Consciousness is expressed in light
